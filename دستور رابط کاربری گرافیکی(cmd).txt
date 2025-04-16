@@ -1,0 +1,10 @@
+Conda activate xxxx
+streamlit run d:\aiocup\mahbueh_mirshekar\chalesh4\online_4.py
+
+
+
+
+
+Local URL: http://localhost:8501
+Network URL: http://192.168.210.35:8501
+
